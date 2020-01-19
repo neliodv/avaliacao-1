@@ -1,0 +1,3 @@
+Você diria que bot ou crawlers são programas facilmente paralelizáveis? Se sim, explique como isso seria implementado dando um exemplo.
+
+Sim. Podemos usar várias instâncias de um bot para acelerar a coleta das informações.

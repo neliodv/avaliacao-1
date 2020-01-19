@@ -1,0 +1,3 @@
+Quais ameaças capturas automáticas proporcionam para sistemas web?
+
+Uma carga excessiva de acessos pode causar falhas no servidor.
